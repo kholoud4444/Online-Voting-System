@@ -1,3 +1,3 @@
-# online-voting-system
+# Online-Voting-System
 >This project cover Login page, Election page 
->you can vote for any candidate you nead online using HTML,JS,PHP,SQL,css,bootstrap.
+>you can vote for any candidate you nead online using HTML,JS,PHP,SQL,CSS,Bootstrap.
